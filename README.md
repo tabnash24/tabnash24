@@ -2,15 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20GitHubers%20👩‍💻&fontSize=40&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&width=435&lines=👋+Tabna+here!;Full-stack+enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&vCenter=true&width=255&height=34&lines=Tabna+here!)](https://git.io/typing-svg)
+
 ---
-✨ You can call me Tab, just like the one on your keyboard. ;)
-💻 I am a budding developer who is here to learn, explore and contribute. 
-✨ All my projects are always evolving—and I’m loving the journey. 
+✨ You can call me Tab, just like the one on your keyboard. ;) <br>
+💻 I am a budding developer who is here to learn, explore and contribute. <br>
+✏️ All my projects are always evolving—and I’m loving the journey. 
 
 ---
 ## 🔭 Projects & Portfolio  
@@ -53,6 +50,11 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,js,git,github,vscode,anaconda,linux,java,jupyter,androidstudio&theme=dark&perline=6)" />
 </p>
+
+---
+### Contact me:
+
+<a href="mailto:tabna12345@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/tabna-shahid/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
