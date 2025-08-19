@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Tabna+here+!;Full+stack+enthusiast)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&width=435&lines=👋+Tabna+here!;Full-stack+enthusiast" alt="Typing SVG" />
+  </a>
 </p>
-
+---
 ✨ You can call me Tab, just like the one on your keyboard. ;)
 💻 I am a budding developer who is here to learn, explore and contribute. 
 ✨ All my projects are always evolving—and I’m loving the journey. 
@@ -49,7 +51,7 @@
 ---
 ##  Familiar With:
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,mysql,js,anaconda,linux,java,jupyter,androidstudio&theme=dark&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,js,git,github,vscode,anaconda,linux,java,jupyter,androidstudio&theme=dark&perline=6)" />
 </p>
 
 ---
