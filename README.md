@@ -4,7 +4,9 @@
 
 # 👋 Tabna here!
 
-✨ You can call me Tab, just like the one on your keyboard. Here to learn, explore and contribute. All my projects are always evolving—and I’m loving the journey. ;)  
+✨ You can call me Tab, just like the one on your keyboard. ;)
+✨ Here to learn, explore and contribute. 
+✨ All my projects are always evolving—and I’m loving the journey. 
 
 ---
 ## 🔭 Projects & Portfolio  
@@ -27,7 +29,7 @@
 </p>
 
 <p align="center">
-  <sub>📊 Database View</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>🔍 Search Feature</sub>
+  <sub>📊 Database View</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>🔍 Search Feature</sub>
 </p>
 
 
