@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%27ello%20GitHubers!%20👩‍💻&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20GitHubers!%20👩‍💻&fontSize=40&animation=fadeIn" />
 </p>
 
 # 👋 Hello! I'm Tabna Shahid  
