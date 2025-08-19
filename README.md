@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20GitHubers!%20👩‍💻&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20GitHubers%20👩‍💻&fontSize=40&animation=fadeIn" />
 </p>
 
 # 👋 Tabna here!
 
-✨ You can call me Tab, just like the one on your keyboard. ;)
-    Here to learn, explore and contribute. 
-    All my projects are always evolving—and I’m loving the journey.  
+✨ You can call me Tab, just like the one on your keyboard. Here to learn, explore and contribute. All my projects are always evolving—and I’m loving the journey. ;)  
 
 ---
 ## 🔭 Projects & Portfolio  
@@ -21,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/tabnash24/contact_management_app">
-    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/db.png" width="250" /><br>
+    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/db.png" width="250"><br>
     <sub>📊 Database View</sub>
   </a>
   <a href="https://github.com/tabnash24/contact_management_app">
