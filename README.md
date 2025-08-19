@@ -19,15 +19,11 @@
 
 <p align="center">
   <a href="https://github.com/tabnash24/contact_management_app">
-    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/db.png" width="250"><br>
+    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/db.png" width="300"><br>
     <sub>📊 Database View</sub>
   </a>
   <a href="https://github.com/tabnash24/contact_management_app">
-    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/duplicate.png" width="250" /><br>
-    <sub>⚠️ Duplicate Check</sub>
-  </a>
-  <a href="https://github.com/tabnash24/contact_management_app">
-    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/search.png" width="250" /><br>
+    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/search.png" width="300" /><br>
     <sub>🔍 Search Feature</sub>
   </a>
 </p>  
