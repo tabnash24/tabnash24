@@ -1,16 +1,60 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%27m%20Tabna%20Shahid%20👩‍💻&fontSize=40&animation=fadeIn" />
+</p>
 
-<!--
-**tabnash24/tabnash24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Tabna Shahid  
 
-Here are some ideas to get you started:
+✨ Here to persist. All my projects are always evolving—and I’m loving the journey.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🔭 Projects & Portfolio  
+- [🌐 Portfolio Website](https://github.com/tabnash24/tabnash24.github.io)  
+- [📐 Geometry Calculator (C)](https://github.com/tabnash24/geometry-calculator)  
+- [✖️ Multiplication Table (C)](https://github.com/tabnash24/multiplication-table)  
+- [🐍 Via Annotations Project (Python)](https://github.com/tabnash24/via-annotations-project)
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=📇%20Contact%20Management%20App&fontSize=30&fontAlignY=55&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/tabnash24/contact_management_app">
+    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/db.png" width="250" /><br>
+    <sub>📊 Database View</sub>
+  </a>
+  <a href="https://github.com/tabnash24/contact_management_app">
+    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/duplicate.png" width="250" /><br>
+    <sub>⚠️ Duplicate Check</sub>
+  </a>
+  <a href="https://github.com/tabnash24/contact_management_app">
+    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/search.png" width="250" /><br>
+    <sub>🔍 Search Feature</sub>
+  </a>
+</p>  
+
+
+---
+
+## 💻 Tech Stack  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=tabnash24&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tabnash24&theme=highcontrast)  
+![](https://github-profile-trophy.vercel.app/?username=tabnash24&theme=dracula)  
+
+---
+
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/tabnash24/tabnash24/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">💡 Lifelong learner & curious coder 🚀</p>
