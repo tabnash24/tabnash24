@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20GitHubers!%20👩‍💻&fontSize=40&animation=fadeIn" />
 </p>
 
-# 👋 Hello! I'm Tabna Shahid  
+# 👋 Tabna here!
 
-✨ Here to persist. All my projects are always evolving—and I’m loving the journey.  
+✨ You can call me Tab, just like the one on your keyboard. ;)
+    Here to learn, explore and contribute. 
+    All my projects are always evolving—and I’m loving the journey.  
 
 ---
 ## 🔭 Projects & Portfolio  
