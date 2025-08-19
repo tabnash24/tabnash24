@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%27m%20Tabna%20Shahid%20👩‍💻&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%27ello%20GitHubers!%20👩‍💻&fontSize=40&animation=fadeIn" />
 </p>
 
-# 👋 Hello, I'm Tabna Shahid  
+# 👋 Hello! I'm Tabna Shahid  
 
 ✨ Here to persist. All my projects are always evolving—and I’m loving the journey.  
 
