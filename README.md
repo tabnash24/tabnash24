@@ -6,8 +6,9 @@
 
 ---
 ✨ You can call me Tab, just like the one on your keyboard. ;) <br>
-💻 I am a budding developer who is here to learn, explore and contribute. <br>
-✏️ All my projects are always evolving—and I’m loving the journey. 
+💻 I am a budding developer with a Bachelor's degree in Computer Science & Engineering. <br>
+🌐 Excited to learn, explore and contribute. <br>
+✏️ All my projects are always evolving just like Pokemons! ⚡️
 
 ---
 ## 🔭 Projects & Portfolio  
@@ -15,17 +16,18 @@
 - [📐 Geometry Calculator (C)](https://github.com/tabnash24/geometry-calculator)  
 - [✖️ Multiplication Table (C)](https://github.com/tabnash24/multiplication-table)  
 - [🐍 Via Annotations Project (Python)](https://github.com/tabnash24/via-annotations-project)
+- [📞 Contact Management Application (Tkinter+MySQL)](https://github.com/tabnash24/contact-management-app) or you can check it out below!
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=📇%20Contact%20Management%20App&fontSize=30&fontAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/tabnash24/contact_management_app">
-    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/db.png" width="250" />
+  <a href="https://github.com/tabnash24/contact-management-app">
+    <img src="https://github.com/tabnash24/contact-management-app/blob/main/assets/screenshots/db.png" width="250" />
   </a>
-  <a href="https://github.com/tabnash24/contact_management_app">
-    <img src="https://github.com/tabnash24/contact_management_app/blob/main/assets/screenshots/search.png" width="250" />
+  <a href="https://github.com/tabnash24/contact-management-app">
+    <img src="https://github.com/tabnash24/contact-management-app/blob/main/assets/screenshots/search.png" width="250" />
   </a>
 </p>
 
@@ -60,13 +62,15 @@
 <a href="mailto:tabna12345@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/tabna-shahid/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=tabnash24&show_icons=true&theme=dark)&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=tabnash24&theme=highcontrast)  
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA"><img src="https://github-profile-trophy.vercel.app/?username=noobs-creation&title=MultiLanguage,Joined2020,Repositories,Commit&theme=discord&no-frame=true&no-bg=true" alt="noobs-creation" /></a>
 </p>
+
 ---
+-->
 
 ## 🐍 Contribution Snake  
 
