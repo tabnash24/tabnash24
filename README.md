@@ -2,10 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20GitHubers%20👩‍💻&fontSize=40&animation=fadeIn" />
 </p>
 
-# 👋 Tabna here!
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Tabna+here+!;Full+stack+enthusiast)](https://git.io/typing-svg)
+</p>
 
 ✨ You can call me Tab, just like the one on your keyboard. ;)
-✨ Here to learn, explore and contribute. 
+💻 I am a budding developer who is here to learn, explore and contribute. 
 ✨ All my projects are always evolving—and I’m loving the journey. 
 
 ---
@@ -45,6 +47,12 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black)
 
 ---
+##  Familiar With:
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,mysql,js,anaconda,linux,java,jupyter,androidstudio&theme=dark&perline=6)](https://skillicons.dev)
+</p>
+
+---
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=tabnash24&show_icons=true&theme=radical)  
@@ -54,7 +62,13 @@
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/tabnash24/tabnash24/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tabnash24/tabnash24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tabnash24/tabnash24/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tabnash24/tabnash24/output/github-snake.svg" />
+</picture>
+
 
 ---
 
