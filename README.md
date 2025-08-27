@@ -12,7 +12,7 @@
 
 ---
 ## 🔭 Projects & Portfolio  
-- [🌐 Portfolio Website](https://github.com/tabnash24/tabnash24.github.io)  
+- [🌐 Portfolio Website](https://tabnash24.github.io/)  
 - [📐 Geometry Calculator (C)](https://github.com/tabnash24/geometry-calculator)  
 - [✖️ Multiplication Table (C)](https://github.com/tabnash24/multiplication-table)  
 - [🐍 Via Annotations Project (Python)](https://github.com/tabnash24/via-annotations-project)
